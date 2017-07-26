@@ -16,7 +16,10 @@ h1,h2,h3,h4,h5,h6{
 	margin:0;	
 	font-family: 'Overlock', cursive;
 }
-
+#job{
+    color: #38a9f1;
+    font-size: 2.0em;
+}
 p{
 	margin:0;
 }
@@ -37,7 +40,7 @@ body a:hover{
 }
 .banner-info{
 	background: url(../images/dott.png)repeat 0px 0px;
-	padding: 4em 0em;
+	padding: 1em 0em;
 }
 .header-left img {
     width: 220px;
